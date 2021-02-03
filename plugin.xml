@@ -111,7 +111,8 @@ id="cordova-plugin-entelfingerplugin" version="0.0.1">
         <framework src="src/ios/framework/VeridiumAuthenticatorUI.framework" custom="true"  />
         <framework src="src/ios/framework/VeridiumCore.framework" custom="true"  />
         <framework src="src/ios/framework/VeridiumDefault4FUI.framework" custom="true"  />
-        <framework src="src/ios/framework/ISVeridiumTracker.framework" custom="true"  />
-  		
+        <!--<framework src="src/ios/framework/ISVeridiumTracker.framework" custom="true"  />-->
+        <!--<framework src="ISVeridiumTracker" type="podspec" spec=":path => 'src/ios/framework/ISVeridiumTracker'" />-->
+
 	</platform>
 </plugin>
