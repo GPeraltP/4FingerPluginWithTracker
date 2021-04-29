@@ -1,0 +1,8 @@
+strings:
+   inputs:
+     - ./VeridiumDefaultVFaceUI/en.lproj/Localizable.strings
+   outputs:
+     - templateName: objc-m
+       output: ./VeridiumDefaultVFaceUI/GeneratedStringResources/Localizable.m
+     - templateName: objc-h
+       output: ./VeridiumDefaultVFaceUI/GeneratedStringResources/Localizable.h

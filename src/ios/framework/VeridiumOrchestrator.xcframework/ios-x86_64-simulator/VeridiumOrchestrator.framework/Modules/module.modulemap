@@ -1,0 +1,11 @@
+framework module VeridiumOrchestrator {
+  umbrella header "VeridiumOrchestrator.h"
+
+  export *
+  module * { export * }
+}
+
+module VeridiumOrchestrator.Swift {
+    header "VeridiumOrchestrator-Swift.h"
+    requires objc
+}

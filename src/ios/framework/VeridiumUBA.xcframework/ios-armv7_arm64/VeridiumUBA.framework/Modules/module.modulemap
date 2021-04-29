@@ -1,0 +1,6 @@
+framework module VeridiumUBA {
+  umbrella header "VeridiumUBA.h"
+
+  export *
+  module * { export * }
+}

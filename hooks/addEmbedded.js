@@ -95,7 +95,7 @@ module.exports = function (context) {
     const pluginPathInPlatformIosDir = projectName + '/Plugins/' + context.opts.plugin.id;
 
     process.chdir('./platforms/ios');
-    const frameworkFilesToEmbed = fromDir(pluginPathInPlatformIosDir, '.framework', false, true);
+    const frameworkFilesToEmbed = fromDir(pluginPathInPlatformIosDir, '.xcframework', false, true);
     process.chdir('../../');
 
     if (!frameworkFilesToEmbed.length) return;

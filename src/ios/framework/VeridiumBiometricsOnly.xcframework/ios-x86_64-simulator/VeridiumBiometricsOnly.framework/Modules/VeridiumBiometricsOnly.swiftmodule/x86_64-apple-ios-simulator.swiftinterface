@@ -1,0 +1,46 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+// swift-module-flags: -target x86_64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name VeridiumBiometricsOnly
+import Foundation
+import Swift
+@_exported import VeridiumBiometricsOnly
+import VeridiumCore
+@objc public class VeridiumLocalAccount : VeridiumCore.VeridiumAccount {
+  @objc override dynamic open func fetchLicenseAndValidate(withForce force: Swift.Bool, completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func changeBiometrics(_ newVectors: [VeridiumCore.VeridiumBiometricFullVector], authenticatorType: VeridiumCore.BOPSAuthenticatorType, withCompletion completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func registerProfile(_ integration: VeridiumCore.IntegrationDefinition, registrationMode: Swift.String, credentials: [Swift.AnyHashable : Any], txSignProtectionLevel: VeridiumCore.VeridiumTXSigningProtection, withCompletion completion: @escaping (VeridiumCore.VeridiumProfileData?, Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func refreshNotifications(completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func refreshProfiles(withForce force: Swift.Bool, completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func updateProfile(_ profileId: Swift.String, credentials: [Swift.AnyHashable : Any]?, registrationMode: Swift.String?, biometricMethods: [Swift.String]?, extraValues: [Swift.AnyHashable : Any]?, withCompletion completion: ((VeridiumCore.VeridiumProfileData?, Swift.Error?) -> Swift.Void)? = nil)
+  @objc override dynamic open func refreshAll(withForce force: Swift.Bool, completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func unlock(withAPNSEnabled enablePushNotifications: Swift.Bool, withCompletion completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic open func authenticateOffline(forProfile profile: VeridiumCore.VeridiumProfileData, completion: @escaping (VeridiumCore.VeridiumAggregatedAuthResult, Swift.Error?) -> Swift.Void)
+  @objc override dynamic public func authenticateForUpdate(forProfile profile: VeridiumCore.VeridiumProfileData, completion: @escaping (VeridiumCore.VeridiumAggregatedAuthResult, Swift.Error?) -> Swift.Void)
+  @objc override dynamic public func authenticateAndRemove(forProfile profile: VeridiumCore.VeridiumProfileData, completion: @escaping (VeridiumCore.VeridiumAggregatedAuthResult, Swift.Error?) -> Swift.Void)
+  @objc override dynamic public func authenticateAndRemoveDevice(completion: @escaping (VeridiumCore.VeridiumAggregatedAuthResult, Swift.Error?) -> Swift.Void)
+  @objc override dynamic public func removeDevice(completion: @escaping (Swift.Error?) -> Swift.Void)
+  @objc override dynamic public init(accountId: Swift.String, andService service: VeridiumCore.VeridiumAccountService)
+  @objc deinit
+}
+extension VeridiumSDK {
+  public var localAccountService: VeridiumBiometricsOnly.VeridiumLocalAccountService? {
+    get
+  }
+  public func registerLocalAccountService() -> VeridiumBiometricsOnly.VeridiumLocalAccountService
+  public func unregisterLocalAccountService()
+}
+@objc public class VeridiumLocalAccountService : VeridiumCore.VeridiumAccountService {
+  public static var kErrorDomain: Swift.String
+  @objc override dynamic public init()
+  @objc override dynamic public var registeredAccounts: [VeridiumCore.VeridiumAccount] {
+    @objc get
+  }
+  @objc override dynamic public var activeAccount: VeridiumCore.VeridiumAccount? {
+    @objc get
+  }
+  public func setActiveAccount(account: VeridiumBiometricsOnly.VeridiumLocalAccount?)
+  @objc override dynamic public func unregisterAccount(_ account: VeridiumCore.VeridiumAccount)
+  @objc override dynamic public func unregisterAllAccounts()
+  @objc override dynamic public func register(with vectors: [VeridiumCore.VeridiumBiometricFullVector]?, integration: VeridiumCore.IntegrationDefinition, registrationMode: Swift.String, loginData: [Swift.AnyHashable : Any], txSignProtectionLevel: VeridiumCore.VeridiumTXSigningProtection, withCompletion completion: @escaping (VeridiumCore.VeridiumAccount?, Swift.Error?) -> Swift.Void)
+  @objc deinit
+}

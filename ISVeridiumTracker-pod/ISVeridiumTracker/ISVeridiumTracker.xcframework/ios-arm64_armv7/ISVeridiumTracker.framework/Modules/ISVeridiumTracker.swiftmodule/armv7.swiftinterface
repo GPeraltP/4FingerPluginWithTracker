@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-compiler-version: Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)
 // swift-module-flags: -target armv7-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ISVeridiumTracker
 import Dispatch
 import Foundation
@@ -132,8 +132,9 @@ extension VANetworkLoggerPlugin.Configuration {
     public static func defaultDataFormatter(_ data: Foundation.Data) -> Swift.String
   }
 }
-@_hasMissingDesignatedInitializers public class VeridiumTracker {
-  public static var shared: ISVeridiumTracker.VeridiumTracker
-  public func trackEvent(name: Swift.String, category: Swift.String, action: Swift.String, label: Swift.String, value: Swift.String)
+@objc @_inheritsConvenienceInitializers @objcMembers public class VeridiumTracker : ObjectiveC.NSObject {
+  @objc public static var shared: ISVeridiumTracker.VeridiumTracker
+  @objc public func trackEvent(name: Swift.String, category: Swift.String, action: Swift.String, label: Swift.String, value: Swift.String)
   @objc deinit
+  @objc override dynamic public init()
 }

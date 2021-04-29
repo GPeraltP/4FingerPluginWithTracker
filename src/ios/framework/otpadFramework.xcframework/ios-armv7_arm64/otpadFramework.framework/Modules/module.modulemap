@@ -1,0 +1,6 @@
+framework module otpadFramework {
+  umbrella header "otpadFramework.h"
+
+  export *
+  module * { export * }
+}

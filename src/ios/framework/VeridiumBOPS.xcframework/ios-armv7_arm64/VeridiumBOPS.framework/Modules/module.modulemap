@@ -1,0 +1,6 @@
+framework module VeridiumBOPS {
+  umbrella header "VeridiumBOPS.h"
+
+  export *
+  module * { export * }
+}

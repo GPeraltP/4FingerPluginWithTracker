@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ISVeridiumTracker-Swift.h</key>
 		<data>
-		KQP97KonABjuJpEuSWmUFS0QQxs=
+		l8IV69cOwmS3KbaKMDpPLZdh3Fc=
 		</data>
 		<key>Headers/ISVeridiumTracker-umbrella.h</key>
 		<data>
@@ -14,103 +14,103 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+8eiyu75HxBp+HsA5S6fw7H1GJM=
+		UtlMx9D/MZQT9lODZRLLhtEBh54=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		iAfHQjtMs82txeofBsAYjQatfvE=
+		syLxvfGPhgTqoAFYKs6DPrlmbG8=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		iAfHQjtMs82txeofBsAYjQatfvE=
+		syLxvfGPhgTqoAFYKs6DPrlmbG8=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AdiaGmEV7g/P0EnR67sVfjJyNSk=
+		K2Czr7sTymzBjTD9gIgUIdqY09s=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		AdiaGmEV7g/P0EnR67sVfjJyNSk=
+		K2Czr7sTymzBjTD9gIgUIdqY09s=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		qzPcABdjzEV+3m2lxEVt7ocrpyM=
+		wh9GBN7MG8H12PXJETC8GP6MbEs=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		qzPcABdjzEV+3m2lxEVt7ocrpyM=
+		wh9GBN7MG8H12PXJETC8GP6MbEs=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		rwNy/XD156EEg055uCP6wz5kwEY=
+		deT6bqub2hq+iEghZA7tQbvglvE=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xla5V0xXj0ovBKhFq4dFkJ1QAMw=
+		RaWw0UDTzo3KlkaiXms4ZVtcfvU=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JCZYKfeYzoMHMHIZyIt9AKuGG7M=
+		6oYuWHJa9aB1nAaRBKq8zRf6roM=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rwNy/XD156EEg055uCP6wz5kwEY=
+		deT6bqub2hq+iEghZA7tQbvglvE=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		xla5V0xXj0ovBKhFq4dFkJ1QAMw=
+		RaWw0UDTzo3KlkaiXms4ZVtcfvU=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		JCZYKfeYzoMHMHIZyIt9AKuGG7M=
+		6oYuWHJa9aB1nAaRBKq8zRf6roM=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ymzG9gWS3983ALxJ/fSYDWv49S0=
+		a1NAtQ24Sslk2bBKckyvCInFa8g=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GllkFU2GKIXQwIexlRYqhd+BBOE=
+		PXK4QzVtEOIVLRDyMnioFCoy0PU=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dRrJhxWb6rdsE4hh16Oz1iFywwI=
+		598jYPNgjlbPX9wtUgi3Q5tXcnw=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftdoc</key>
 		<data>
-		ymzG9gWS3983ALxJ/fSYDWv49S0=
+		a1NAtQ24Sslk2bBKckyvCInFa8g=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftinterface</key>
 		<data>
-		GllkFU2GKIXQwIexlRYqhd+BBOE=
+		PXK4QzVtEOIVLRDyMnioFCoy0PU=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftmodule</key>
 		<data>
-		dRrJhxWb6rdsE4hh16Oz1iFywwI=
+		598jYPNgjlbPX9wtUgi3Q5tXcnw=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ABDdrj64C62Yo5NeTaZssaQTGUo=
+		Eg2v7swtew5Wo10HaqI7u21xOC0=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BX6vmuGShlANFTRyrNiu0pZmrwc=
+		MudC0Egx7J8iIhOsxl+3OpmWE9Y=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uVQJcHMh4sQaNCcOj1tzBzmd7i4=
+		3Twn+AsNSNTv8mOADMR9qbnoFEQ=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		ABDdrj64C62Yo5NeTaZssaQTGUo=
+		Eg2v7swtew5Wo10HaqI7u21xOC0=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		BX6vmuGShlANFTRyrNiu0pZmrwc=
+		MudC0Egx7J8iIhOsxl+3OpmWE9Y=
 		</data>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		uVQJcHMh4sQaNCcOj1tzBzmd7i4=
+		3Twn+AsNSNTv8mOADMR9qbnoFEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KQP97KonABjuJpEuSWmUFS0QQxs=
+			l8IV69cOwmS3KbaKMDpPLZdh3Fc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YjtP0z7cfLF5Fq608qJWUYnP6qhQapnbpClJy2HlGdk=
+			GI6yDBsYlLEzJXHGufWKpONO4SYJblW8quUSh4q1Oz8=
 			</data>
 		</dict>
 		<key>Headers/ISVeridiumTracker-umbrella.h</key>
@@ -145,264 +145,264 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iAfHQjtMs82txeofBsAYjQatfvE=
+			syLxvfGPhgTqoAFYKs6DPrlmbG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AkxxOrN2YonVgOKqw62+FEmQEbUg2nK2mLcUWlWq3TU=
+			Dly2ag3Rh48XjXPBHI09Ci2XyZEzFkYL2QQVVhMhZxI=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iAfHQjtMs82txeofBsAYjQatfvE=
+			syLxvfGPhgTqoAFYKs6DPrlmbG8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AkxxOrN2YonVgOKqw62+FEmQEbUg2nK2mLcUWlWq3TU=
+			Dly2ag3Rh48XjXPBHI09Ci2XyZEzFkYL2QQVVhMhZxI=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AdiaGmEV7g/P0EnR67sVfjJyNSk=
+			K2Czr7sTymzBjTD9gIgUIdqY09s=
 			</data>
 			<key>hash2</key>
 			<data>
-			uhpwZXKgp+U0ZKHVLLRrIFtV2JdPtmQyEkRVb31U04Y=
+			nfgfmwbMoz2VN3x3lTPlQEK+r1v+4Z4PFQ73N4eozDk=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AdiaGmEV7g/P0EnR67sVfjJyNSk=
+			K2Czr7sTymzBjTD9gIgUIdqY09s=
 			</data>
 			<key>hash2</key>
 			<data>
-			uhpwZXKgp+U0ZKHVLLRrIFtV2JdPtmQyEkRVb31U04Y=
+			nfgfmwbMoz2VN3x3lTPlQEK+r1v+4Z4PFQ73N4eozDk=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qzPcABdjzEV+3m2lxEVt7ocrpyM=
+			wh9GBN7MG8H12PXJETC8GP6MbEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			jaKGO4VvkuORh5AxLowK2exQaJDS+5nojVDyKW4oB3o=
+			DlI+SiN/FXjk1KZ/ZmSfkwul5ss14NSNOx3axUlGO3E=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qzPcABdjzEV+3m2lxEVt7ocrpyM=
+			wh9GBN7MG8H12PXJETC8GP6MbEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			jaKGO4VvkuORh5AxLowK2exQaJDS+5nojVDyKW4oB3o=
+			DlI+SiN/FXjk1KZ/ZmSfkwul5ss14NSNOx3axUlGO3E=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rwNy/XD156EEg055uCP6wz5kwEY=
+			deT6bqub2hq+iEghZA7tQbvglvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VIMc/3ynFIriOnGmpvJaP/9vg03eRCDvitsvl3yv/z4=
+			Y9ZRNgZVgT9LkRXA0DjoYVmDLnG2Mo+nEEvbGIgJbdc=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xla5V0xXj0ovBKhFq4dFkJ1QAMw=
+			RaWw0UDTzo3KlkaiXms4ZVtcfvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZyFUtoXVPV2Xb6TYuNDAh+aPfhbb7nwdRs7TPvKYJmQ=
+			jdPx+gk7Nk2eoDs9mpAeHq9b2EVJxdK9vBEGHrd0kQE=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JCZYKfeYzoMHMHIZyIt9AKuGG7M=
+			6oYuWHJa9aB1nAaRBKq8zRf6roM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Pk1IW3IP4WBCh3GLjbf9V9HUKqs7ZkzpkHnXSImMiQ=
+			+mVlie1Ysn3D2Rrln97Y9nQNYI8aPFG3irr1zDgaAQs=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rwNy/XD156EEg055uCP6wz5kwEY=
+			deT6bqub2hq+iEghZA7tQbvglvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			VIMc/3ynFIriOnGmpvJaP/9vg03eRCDvitsvl3yv/z4=
+			Y9ZRNgZVgT9LkRXA0DjoYVmDLnG2Mo+nEEvbGIgJbdc=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xla5V0xXj0ovBKhFq4dFkJ1QAMw=
+			RaWw0UDTzo3KlkaiXms4ZVtcfvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZyFUtoXVPV2Xb6TYuNDAh+aPfhbb7nwdRs7TPvKYJmQ=
+			jdPx+gk7Nk2eoDs9mpAeHq9b2EVJxdK9vBEGHrd0kQE=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JCZYKfeYzoMHMHIZyIt9AKuGG7M=
+			6oYuWHJa9aB1nAaRBKq8zRf6roM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Pk1IW3IP4WBCh3GLjbf9V9HUKqs7ZkzpkHnXSImMiQ=
+			+mVlie1Ysn3D2Rrln97Y9nQNYI8aPFG3irr1zDgaAQs=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ymzG9gWS3983ALxJ/fSYDWv49S0=
+			a1NAtQ24Sslk2bBKckyvCInFa8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			jwtNpyo2X8uhUWq1QgVx1XIVTi2h0fxugYizkeoIGFM=
+			aku797EFFv9Wse2/ULoxa5L2aJ9Q/dyzU9uhsVAdFNI=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GllkFU2GKIXQwIexlRYqhd+BBOE=
+			PXK4QzVtEOIVLRDyMnioFCoy0PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/yH9Z0QIi/x9Cl4smHIV2ysd1f+C/IAxOSkWswEZyIY=
+			nVoRxfQBK5Nwo0/cHpSfh8QCJHgcj0I93/sKffk/B+0=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dRrJhxWb6rdsE4hh16Oz1iFywwI=
+			598jYPNgjlbPX9wtUgi3Q5tXcnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PhjOWXn67Y3AFar/u9kmI1H3GnZ8EdHkgfWRMi1cm4Q=
+			cyy+wGJ1gzjy/1Y0I2zcp+OIHCRRE+o0JzAyqD3gSjU=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ymzG9gWS3983ALxJ/fSYDWv49S0=
+			a1NAtQ24Sslk2bBKckyvCInFa8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			jwtNpyo2X8uhUWq1QgVx1XIVTi2h0fxugYizkeoIGFM=
+			aku797EFFv9Wse2/ULoxa5L2aJ9Q/dyzU9uhsVAdFNI=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GllkFU2GKIXQwIexlRYqhd+BBOE=
+			PXK4QzVtEOIVLRDyMnioFCoy0PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/yH9Z0QIi/x9Cl4smHIV2ysd1f+C/IAxOSkWswEZyIY=
+			nVoRxfQBK5Nwo0/cHpSfh8QCJHgcj0I93/sKffk/B+0=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dRrJhxWb6rdsE4hh16Oz1iFywwI=
+			598jYPNgjlbPX9wtUgi3Q5tXcnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PhjOWXn67Y3AFar/u9kmI1H3GnZ8EdHkgfWRMi1cm4Q=
+			cyy+wGJ1gzjy/1Y0I2zcp+OIHCRRE+o0JzAyqD3gSjU=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ABDdrj64C62Yo5NeTaZssaQTGUo=
+			Eg2v7swtew5Wo10HaqI7u21xOC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2QclXLQ5FmV4PIhn4f10FkK8tJKvZCXyY6R7zj4LJh8=
+			MfeVtcCQiLeTV8XNjMT0i3zniBqSi8oINd+XL+Jm2zw=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BX6vmuGShlANFTRyrNiu0pZmrwc=
+			MudC0Egx7J8iIhOsxl+3OpmWE9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fyfTlXgi0Ab2x6cfQvt1vAS7hF2sfRtXfOGs3a70TY0=
+			puqjGuyQenIN1eCSkpWtt/X73vVJ03C6ayJo2HVCazg=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uVQJcHMh4sQaNCcOj1tzBzmd7i4=
+			3Twn+AsNSNTv8mOADMR9qbnoFEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0YzHNjtibg9g3Bu/kKLnhcWurMa5rgXerh8wHGVmO4=
+			Z7DgHvstT31CcQNRFZGEsicvlDACLasXEXln8MQfQ0A=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ABDdrj64C62Yo5NeTaZssaQTGUo=
+			Eg2v7swtew5Wo10HaqI7u21xOC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2QclXLQ5FmV4PIhn4f10FkK8tJKvZCXyY6R7zj4LJh8=
+			MfeVtcCQiLeTV8XNjMT0i3zniBqSi8oINd+XL+Jm2zw=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BX6vmuGShlANFTRyrNiu0pZmrwc=
+			MudC0Egx7J8iIhOsxl+3OpmWE9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fyfTlXgi0Ab2x6cfQvt1vAS7hF2sfRtXfOGs3a70TY0=
+			puqjGuyQenIN1eCSkpWtt/X73vVJ03C6ayJo2HVCazg=
 			</data>
 		</dict>
 		<key>Modules/ISVeridiumTracker.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uVQJcHMh4sQaNCcOj1tzBzmd7i4=
+			3Twn+AsNSNTv8mOADMR9qbnoFEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0YzHNjtibg9g3Bu/kKLnhcWurMa5rgXerh8wHGVmO4=
+			Z7DgHvstT31CcQNRFZGEsicvlDACLasXEXln8MQfQ0A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

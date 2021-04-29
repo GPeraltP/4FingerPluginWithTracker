@@ -1,0 +1,11 @@
+framework module VeridiumBiometricsOnly {
+  umbrella header "VeridiumBiometricsOnly.h"
+
+  export *
+  module * { export * }
+}
+
+module VeridiumBiometricsOnly.Swift {
+    header "VeridiumBiometricsOnly-Swift.h"
+    requires objc
+}

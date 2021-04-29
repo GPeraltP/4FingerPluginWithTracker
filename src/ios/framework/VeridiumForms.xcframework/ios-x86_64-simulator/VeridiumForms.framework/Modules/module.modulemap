@@ -1,0 +1,6 @@
+framework module VeridiumForms {
+  umbrella header "VeridiumForms.h"
+
+  export *
+  module * { export * }
+}

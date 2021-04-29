@@ -106,13 +106,30 @@ id="cordova-plugin-entelfingerplugin" version="0.0.1">
 		<header-file src="src/ios/EntelFingerPlugin.h" />
 		<source-file src="src/ios/EntelFingerPlugin.m" />
 
-        <framework src="src/ios/framework/Veridium4FBiometrics.framework" custom="true" />
+    <!-- <framework src="src/ios/framework/Veridium4FBiometrics.framework" custom="true" />
 	    <framework src="src/ios/framework/VeridiumAnalytics.framework" custom="true" />
         <framework src="src/ios/framework/VeridiumAuthenticatorUI.framework" custom="true"  />
         <framework src="src/ios/framework/VeridiumCore.framework" custom="true"  />
-        <framework src="src/ios/framework/VeridiumDefault4FUI.framework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumDefault4FUI.framework" custom="true"  /> -->
         <!--<framework src="src/ios/framework/ISVeridiumTracker.framework" custom="true"  />-->
+        <!-- Tracker -->
         <framework src="ISVeridiumTracker" type="podspec" spec=":path => '../../plugins/cordova-plugin-entelfingerplugin/ISVeridiumTracker-pod'" />
+
+        <!-- SDK Update -->
+        <framework src="src/ios/framework/otpadFramework.xcframework" custom="true"  />
+        <framework src="src/ios/framework/Veridium4FUI.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumAnalytics.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumBiometricsOnly.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumBOPS.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumCore.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumDefaultVFaceUI.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumForms.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumOrchestrator.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumQRReader.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumUBA.xcframework" custom="true"  />
+        <framework src="src/ios/framework/VeridiumVFaceBiometrics.xcframework" custom="true"  />
+        <!-- Security -->
+        <framework src="src/ios/framework/Veridium4FBiometrics.xcframework" custom="true"  />
 
 	</platform>
 </plugin>
