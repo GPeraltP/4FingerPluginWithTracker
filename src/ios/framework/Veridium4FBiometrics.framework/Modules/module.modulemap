@@ -1,6 +1,0 @@
-framework module Veridium4FBiometrics {
-  umbrella header "Veridium4FBiometrics.h"
-
-  export *
-  module * { export * }
-}
