@@ -1,6 +1,0 @@
-framework module VeridiumQRReader {
-  umbrella header "VeridiumQRReader.h"
-
-  export *
-  module * { export * }
-}

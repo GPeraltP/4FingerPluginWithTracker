@@ -1,6 +1,0 @@
-framework module VeridiumVFaceBiometrics {
-  umbrella header "VeridiumVFaceBiometrics.h"
-
-  export *
-  module * { export * }
-}

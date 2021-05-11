@@ -1,6 +1,0 @@
-framework module VeridiumDefaultVFaceUI {
-  umbrella header "VeridiumDefaultVFaceUI.h"
-
-  export *
-  module * { export * }
-}
